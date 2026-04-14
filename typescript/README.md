@@ -5,5 +5,5 @@
 ```sh
 pnpm init -y
 pnpm install @modelcontextprotocol/sdk zod
-pnpm install -D typescript ts-node @types/node
+pnpm install -D typescript @types/node
 ```
